@@ -1,6 +1,6 @@
 # DDRimage for Windows
 
-DDRimage 是面向免疫荧光、DNA Fiber 和单克隆形成实验的本地图像分析软件，适用于 Windows 10 和 Windows 11。如果想要下载Mac系统版本的，可以查看[DDRimage-macos](https://github.com/amiba-xqq/DDRimage-macos)
+DDRimage 是面向免疫荧光、DNA Fiber 和单克隆形成实验的本地图像分析软件，适用于 Windows 10 和 Windows 11。如果想要下载Mac系统版本的，可以查看[DDRimage-macos](https://github.com/amiba-xqq/DDRimage-macos)。
 
 软件包含以下功能：
 
